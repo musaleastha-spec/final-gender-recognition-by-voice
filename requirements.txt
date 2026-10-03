@@ -1,6 +1,8 @@
 streamlit
-joblib
 librosa
 resampy
 numpy
+scipy
+soundfile
+joblib
 scikit-learn
